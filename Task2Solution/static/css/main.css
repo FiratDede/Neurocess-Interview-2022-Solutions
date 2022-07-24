@@ -1,0 +1,26 @@
+.container {
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+    
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid black;
+    width: 33%;
+    padding: 8px;
+    background-color: #1974D2;
+    color: white;
+    text-align: center;
+}
+.productImage {
+    width: 60%;
+    height: auto;
+    
+}

@@ -1,0 +1,2 @@
+# Neurocess Interview 2022 Solutions
+This github repository was created for solutions of Neurocess Interview 2022. There are two folders ,which are "Task1Solution" and "Task2Solution" for solutions of tasks. Each folder includes its own README file for explaining how I solved this task and how the programmes are executed.
